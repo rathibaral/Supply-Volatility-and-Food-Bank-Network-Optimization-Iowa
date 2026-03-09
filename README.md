@@ -1,2 +1,2 @@
-# Supply-Volatility-and-Food-Bank-Network-Optimization-for-Selected-Iowa-Counties
+#Supply-Volatility-and-Food-Bank-Network-Optimization-(Iowa)
 This project develops a stylized optimization model for grain supply distribution, linking supply volatility with county-level food insecurity. It is a simple model to allocate grain supply across selected Iowa counties under both normal and simulated supply-shock scenarios. Publicly available USDA data on historical loss-adjusted grain availability and county-level food insecurity rates  have been used to construct demand proxies and to solve a cost-minimizing linear program. The model also demonstrates how supply volatility impacts unmet demand across a supply chain network. 
